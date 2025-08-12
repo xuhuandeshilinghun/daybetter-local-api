@@ -2,7 +2,7 @@
 name = "daybetter-local-api"
 version = "1.0.1"
 license = "Apache-2.0"
-authors = [{ name = "Galorhallen", email = "andrea.ponte1987@gmail.com" }]
+authors = [{ name = "Galorhallen", email = "moyuliu39@gmail.com" }]
 description = "Library to communicate with daybetter local API"
 readme = "README.md"
 requires-python = ">=3.11"
