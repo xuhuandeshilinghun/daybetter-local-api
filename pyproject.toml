@@ -1,6 +1,6 @@
 [project]
 name = "daybetter-local-api"
-version = "1.0.5"
+version = "1.0.6"
 license = "Apache-2.0"
 authors = [{ name = "DayBetter", email = "moyuliu39@gmail.com" }]
 description = "Library to communicate with daybetter local API"
