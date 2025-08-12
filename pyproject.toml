@@ -1,16 +1,16 @@
 [project]
 name = "daybetter-local-api"
-version = "1.0.1"
+version = "1.0.6"
 license = "Apache-2.0"
-authors = [{ name = "Galorhallen", email = "moyuliu39@gmail.com" }]
+authors = [{ name = "DayBetter", email = "moyuliu39@gmail.com" }]
 description = "Library to communicate with daybetter local API"
 readme = "README.md"
 requires-python = ">=3.11"
 dynamic = ["classifiers", "dependencies", "optional-dependencies"]
 
 [project.urls]
-"Repository" = "https://github.com/Galorhallen/daybetter-local-api"
-"Bug Tracker" = "https://github.com/Galorhallen/daybetter-local-api/issues"
+"Repository" = "https://github.com/DayBetter/daybetter-local-api"
+"Bug Tracker" = "https://github.com/DayBetter/daybetter-local-api/issues"
 
 [tool.poetry]
 classifiers = [

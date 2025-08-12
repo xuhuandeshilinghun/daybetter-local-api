@@ -399,7 +399,7 @@ class DayBetterController:
             if not capabilities:
                 capabilities = ON_OFF_CAPABILITIES
                 self._logger.warning(
-                    "Device %s is not supported. Only power control is available. Please open an issue at 'https://github.com/Galorhallen/daybetter-local-api/issues'",
+                    "Device %s is not supported. Only power control is available. Please open an issue at 'https://github.com/DayBetter/daybetter-local-api/issues'",
                     message.sku,
                 )
             device = DayBetterDevice(
