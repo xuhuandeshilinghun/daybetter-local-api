@@ -1,6 +1,6 @@
 # daybetter Local API
 
-[![Upload Python Package](https://github.com/xuhuandeshilinghun/daybetter-local-api/actions/workflows/deploy.yml/badge.svg?event=release)](https://github.com/Galorhallen/daybetter-local-api/actions/workflows/deploy.yml)
+[![Upload Python Package](https://github.com/xuhuandeshilinghun/daybetter-local-api/actions/workflows/deploy.yml/badge.svg?event=release)](https://github.com/xuhuandeshilinghun/daybetter-local-api/actions/workflows/deploy.yml)
 
 # Requirements
 
